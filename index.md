@@ -27,7 +27,7 @@ order: 1
 
 
 
-## What is DTWise?
+## What is DTwiSE?
 
 DTwiSE, the International Workshop on Digital Twin Software Engineering, is a scientific venue dedicated to the software engineering aspects of digital twins.
 

@@ -17,7 +17,8 @@ order: 10
             {% assign lastnameUpcase = names[0] | upcase %}
             {% assign fullname = names[1] | append: " " | append: lastnameUpcase %}
             <div class="item-name"><a href="{{ organizer.website }}">{{ fullname }}</a></div>
-            <div class="item-desc">{{ organizer.affiliation }}</div>
+            {% assign affdata = organizer.affiliation | split: ", " %}
+            <div class="item-desc">{{ affdata[0] }}<br/>{{ affdata[1]}}</div>
         </div>
     {% endfor %}
 </div>

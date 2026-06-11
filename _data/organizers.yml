@@ -1,0 +1,23 @@
+- name: Oakes, Bentley
+  image: bentley.jpg
+  affiliation: Polytechnique Montreal, Canada
+  website: https://bentleyoakes.com/
+  order: 1
+
+- name: David, Istvan
+  image: istvan.png
+  affiliation: McMaster University, Canada
+  website: http://istvandavid.com/
+  order: 2
+  
+- name: Frasheri, Mirgita
+  image: mirgita.jpg
+  affiliation: Aarhus University, Denmark
+  website: https://www.au.dk/en/mirgita.frasheri@ece.au.dk
+  order: 3
+  
+- name: Michael, Judith
+  image: judith.jpg
+  affiliation: University of Regensburg, Germany
+  website: https://judithmichael.github.io/
+  order: 4

@@ -12,8 +12,8 @@ order: 1
 <div style="overflow: hidden;padding: 25px 25px 25px 0;">
 
 <div style="text-align: left;float:left;">
-  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="">ICSE'27</a></p>
-  <p>May 2027<br/>
+  <p style="font-size:25px;margin-bottom:0px;font-weight:500;">Co-located with <a href="https://conf.researchr.org/home/icse-2027">ICSE'27</a></p>
+  <p>April 2027<br/>
   Dublin, Ireland</p>
 </div>
 

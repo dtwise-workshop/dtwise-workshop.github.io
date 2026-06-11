@@ -6,7 +6,7 @@ order: 1
 ---
 
 <div>
- <img src="/assets/dtwise-banner.png" alt="DTwiSE" class="center"><br/>
+ <img src="/assets/dtwise-logo.png" width="200" alt="DTwiSE" class="center"><br/>
 </div>
 
 <div style="overflow: hidden;padding: 25px 25px 25px 0;">

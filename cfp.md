@@ -37,11 +37,15 @@ We solicit the following types of papers.
 
 Note: page limits include references.
 
-## Submission
-TBA
+## Formatting, submission, and review
+All submissions must conform to the IEEE conference proceedings template, specified in the [IEEE Conference Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html). Most notably, use the ` \documentclass[10pt,conference]{IEEEtran}` documentclass. The official IEEE Overleaf template is available [here](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn).
+
+The HotCRP site for contributions will be announced shortly.
+
+Submissions will undergo a single-blind process and be evaluated based on (1) relevance to the workshop and potential to generate stimulating discussions, (2) novelty (for research, education and position papers), and (3) presentation quality.
 
 ## Presentations
 TBA
 
 ## Proceedings
-TBA
+The workshop proceedings will be published in ICSE 2027 Companion proceedings.

@@ -38,7 +38,7 @@ We solicit the following types of papers.
 Note: page limits include references.
 
 ## Formatting, submission, and review
-All submissions must conform to the IEEE conference proceedings template, specified in the [IEEE Conference Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html). Most notably, use the ` \documentclass[10pt,conference]{IEEEtran}` documentclass. The official IEEE Overleaf template is available [here](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn).
+All submissions must conform to the IEEE conference proceedings template, specified in the [IEEE Conference Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html). Most notably, use the `\documentclass[10pt,conference]{IEEEtran}` documentclass. The official IEEE Overleaf template is available [here](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn).
 
 The HotCRP site for contributions will be announced shortly.
 
